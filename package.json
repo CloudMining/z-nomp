@@ -31,7 +31,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/zencashio/z-nomp.git"
+        "url": "https://github.com/CloudMining/z-nomp.git"
     },
     "dependencies": {
         "async": "2.3.0",
@@ -49,7 +49,7 @@
         "nonce": "1.0.4",
         "redis": "2.7.1",
         "request": "2.81.0",
-        "stratum-pool": "git+https://github.com/z-classic/node-stratum-pool.git"
+        "stratum-pool": "git+https://github.com/CloudMining/node-stratum-pool"
     },
     "engines": {
         "node": ">=0.10"
